@@ -1,1 +1,2 @@
 # JokesGame
+The 'Jokes Game' project built in Python utilizes the tkinter library to create a user interface. The application randomly fetches jokes using the pyjokes library. The graphical interface consists of a window displaying jokes fetched by clicking the 'joke' button. The 'Clear' button erases the displayed joke from the window. The code employs tkinter's graphical elements like Text, Buttons, and functions connected to them to generate and clear jokes upon user interaction.
